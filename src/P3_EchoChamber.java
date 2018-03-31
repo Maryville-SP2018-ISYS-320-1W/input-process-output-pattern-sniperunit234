@@ -1,7 +1,7 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Gabriel lopez	
+	Date: 03/31/2018
 */
 
 public class P3_EchoChamber {
