@@ -1,7 +1,7 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Gabriel Lopez
+	Date: 03/31/2018
 */
 
 public class P2_Doubler {
